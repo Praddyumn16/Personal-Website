@@ -1,1 +1,39 @@
-h
+<!DOCTYPE html>
+<head>
+  <title>Praddyumn Shukla</title>
+  <style>
+    body {margin-top: 180px;
+      text-align: center;
+      background: url("https://images.unsplash.com/photo-1531256379416-9f000e90aacc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+    p {
+      margin-left: 70px;
+        color: black;
+      font-size: 20px;
+    }
+    st{
+      margin-left: 60px;
+      }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+<img src="https://i.ibb.co/7p0L482/imgonline-com-ua-shape-k-Ox-Za-Lx-Ya-Hjx-M5u.png" alt="imgonline-com-ua-shape-k-Ox-Za-Lx-Ya-Hjx-M5u" border="0"></a>
+  <p>Hi Guyz! I'm Praddyumn,a Bhubaneswar based Engineering undergraduate.<br />
+  Here's a link to my <a href="https://www.linkedin.com/in/praddyumn-shukla-468830180/">LinkedIn</a> profile!</p>
+ <st> <input type="email" placeholder="Your email"></st>
+  <input type="submit">
+  </p>
+</body>
